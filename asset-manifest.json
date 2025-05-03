@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Inundae/static/css/main.b431a3ae.css",
+    "main.js": "/Inundae/static/js/main.dd2f0632.js",
+    "index.html": "/Inundae/index.html",
+    "main.b431a3ae.css.map": "/Inundae/static/css/main.b431a3ae.css.map",
+    "main.dd2f0632.js.map": "/Inundae/static/js/main.dd2f0632.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b431a3ae.css",
+    "static/js/main.dd2f0632.js"
+  ]
+}
